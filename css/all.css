@@ -1,6 +1,9 @@
 h1{
-    color:black;
+    color: black;
 }
 p{
-    color:blue;
+    color: blue;
+}
+body{
+    color: red;
 }
